@@ -1,0 +1,17 @@
+.definition {
+    margin-bottom: 1rem;
+}
+
+.part-of-speech {
+    font-style: italic;
+    color: #6c757d;
+}
+
+.example {
+    font-style: italic;
+    color: #28a745;
+}
+
+.error-message {
+    color: #dc3545;
+}
